@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ankur Jyoti
-- 👀 I’m interested in Technologies
+- 👋 Hi, I’m Ankur Jyoti.
+- 👀 I’m interested in Technologies.
 - 🌱 I’m currently learning Laravel and Machine Learning.
 - 💞️ I’m looking to collaborate in interesting Projects.
-- 📫 How to reach me ankurgoggoi917@gmail.com
+- 📫 How to reach me ankurgoggoi917@gmail.com.
 
 <!---
 ankurjec/ankurjec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

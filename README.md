@@ -2,6 +2,20 @@
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiWEaBxKQ5VLBg_sN2TQ8iYtcXjST4LiIlDXEEhWkr09-g8ng_R82QQorI59uu9upv9VnLQ-E-FoiIAkIFBQBsfO9TXdLl957sAAlbXYCFhzqvyOeO7LAb4_ktqpA46vz-JgUBFjjJJSh32UgKKXX5kvdMso_mht9wt0yFr8v6pATZshp0wGCG848bMjY/s1600-rw/sunset-river.png" width="100%" />
 # Welcome to My GitHub Profile!
 
+<div style="background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiWEaBxKQ5VLBg_sN2TQ8iYtcXjST4LiIlDXEEhWkr09-g8ng_R82QQorI59uu9upv9VnLQ-E-FoiIAkIFBQBsfO9TXdLl957sAAlbXYCFhzqvyOeO7LAb4_ktqpA46vz-JgUBFjjJJSh32UgKKXX5kvdMso_mht9wt0yFr8v6pATZshp0wGCG848bMjY/s1600-rw/sunset-river.png') no-repeat center center; background-size: cover; height: 200px; display: flex; align-items: center; justify-content: center; color: white; font-size: 24px; font-weight: bold;">
+  Welcome to My GitHub Profile!
+</div>
+
+
+
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m Ankur Jyoti.
 - 👀 I’m interested in Technologies.
 - 🌱 I’m currently learning Python and Django.

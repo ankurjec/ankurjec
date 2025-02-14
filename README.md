@@ -1,4 +1,5 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiWEaBxKQ5VLBg_sN2TQ8iYtcXjST4LiIlDXEEhWkr09-g8ng_R82QQorI59uu9upv9VnLQ-E-FoiIAkIFBQBsfO9TXdLl957sAAlbXYCFhzqvyOeO7LAb4_ktqpA46vz-JgUBFjjJJSh32UgKKXX5kvdMso_mht9wt0yFr8v6pATZshp0wGCG848bMjY/s1600-rw/sunset-river.png" width="100%" /> # Welcome to My GitHub Profile!
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiWEaBxKQ5VLBg_sN2TQ8iYtcXjST4LiIlDXEEhWkr09-g8ng_R82QQorI59uu9upv9VnLQ-E-FoiIAkIFBQBsfO9TXdLl957sAAlbXYCFhzqvyOeO7LAb4_ktqpA46vz-JgUBFjjJJSh32UgKKXX5kvdMso_mht9wt0yFr8v6pATZshp0wGCG848bMjY/s1600-rw/sunset-river.png" width="100%" /> 
+# Welcome to My GitHub Profile!
 
 
 - 👋 Hi, I’m Ankur Jyoti.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankur Jyoti.
 - 👀 I’m interested in Technologies.
-- 🌱 I’m currently learning Laravel and Machine Learning.
+- 🌱 I’m currently learning Python and Django.
 - 💞️ I’m looking to collaborate in interesting Projects.
 - 📫 How to reach me ankurgogoi917@gmail.com.
 

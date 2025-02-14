@@ -1,5 +1,5 @@
-
 <img src="https://www.bleepstatic.com/content/hl-images/2022/04/08/GitHub___headpic.jpg" width="100%" />
+
 - 👋 Hi, I’m Ankur Jyoti.
 - 👀 I’m interested in Technologies.
 - 🌱 I’m currently learning Python and Django.

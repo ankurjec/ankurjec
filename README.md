@@ -1,9 +1,7 @@
-<div style="position: relative; text-align: center;">
+![Banner]
 <img src="https://www.bleepstatic.com/content/hl-images/2022/04/08/GitHub___headpic.jpg" width="100%" />
-<h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 10px;">
-    Welcome to My GitHub Profile!
-  </h1>
-</div>
+# Welcome to My GitHub Profile!
+
 - 👋 Hi, I’m Ankur Jyoti.
 - 👀 I’m interested in Technologies.
 - 🌱 I’m currently learning Python and Django.
